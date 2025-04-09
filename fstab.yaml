@@ -2,4 +2,3 @@ mountpoints:
   /:
     url: https://content.da.live/kptdobe/daplayground/
     type: markup
-
